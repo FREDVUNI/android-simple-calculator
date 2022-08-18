@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP-ONE</string>
+    <string name="my_first">THIS IS THE START.</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_subtract">SUBTRACT</string>
+    <string name="btn_multiply">MULTIPLY</string>
+    <string name="btn_divide">DIVIDE</string>
+</resources>
